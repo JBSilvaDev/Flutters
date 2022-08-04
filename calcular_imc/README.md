@@ -1,3 +1,3 @@
 # calcular_imc
 
-![](/Imgs/imc_2.jpg)
+![](../imgs/imc_2.jpg)
